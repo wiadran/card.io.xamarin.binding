@@ -1,0 +1,18 @@
+<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+	<attr path="/api/package[@name='io.card.payment']/class[@name='A']/field[@name='a']" name="managedName">AProp</attr>
+	<attr path="/api/package[@name='io.card.payment']/class[@name='M']" name="visibility">public</attr>
+	<attr path="/api/package[@name='io.card.payment']/class[@name='M']" name="name">Mcl</attr>
+	<attr path="/api/package[@name='io.card.payment']/interface[@name='N']" name="visibility">public</attr>
+	<attr path="/api/package[@name='io.card.payment']/interface[@name='N']" name="name">Nifc</attr>
+	<attr path="/api/package[@name='io.card.payment']/class[@name='L']" name="visibility">public</attr>
+	<attr path="/api/package[@name='io.card.payment']/class[@name='L']/field[@name='a']" name="managedName">aProp</attr>
+	<attr path="/api/package[@name='io.card.payment']/class[@name='L']/method[@name='a']" name="managedName">aMethod</attr>
+	<attr path="/api/package[@name='io.card.payment']/class[@name='L']" name="name">Lcl</attr>
+</metadata>
